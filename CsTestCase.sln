@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basket.API", "Basket.API\Basket.API.csproj", "{D10628DF-4E71-47C9-98BC-40CA752EBD03}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{F920DD17-3C5A-4BF7-A1CF-D5607902B192}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D10628DF-4E71-47C9-98BC-40CA752EBD03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10628DF-4E71-47C9-98BC-40CA752EBD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10628DF-4E71-47C9-98BC-40CA752EBD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10628DF-4E71-47C9-98BC-40CA752EBD03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F920DD17-3C5A-4BF7-A1CF-D5607902B192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F920DD17-3C5A-4BF7-A1CF-D5607902B192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F920DD17-3C5A-4BF7-A1CF-D5607902B192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F920DD17-3C5A-4BF7-A1CF-D5607902B192}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01FE3889-6C9B-47A1-B863-31A1C9D9B2ED}
+	EndGlobalSection
+EndGlobal
